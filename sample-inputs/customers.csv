@@ -1,0 +1,8 @@
+customer_id,favorite_genres,games_played,hours,last_visit
+C01,FPS;Battle Royale,Counter-Strike 2;Valorant,320;150,2026-10-28
+C02,MOBA,League of Legends,500,12 days ago
+C03,,Fortnite,40,2026-10-20
+C04,Racing;Sports,,,2026-09-15
+C05,FPS,Counter-Strike 2,210,2026-10-30
+C05,FPS,Counter-Strike 2,240,2026-10-31
+C06,Co-op;Survival,,,
