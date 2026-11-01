@@ -1,11 +1,10 @@
-# icafe-game-buyer (free-plan version)
+# Internet Cafe Game buyer 
 
 Three skills that find, review and match new games to an internet cafe's
 customers and write a purchase shortlist email draft.
 
 ## Requires
-- Built-in web search (turn it on in the chat's tools/settings). Free plan is enough.
-- No connectors, no scheduled runs, no n8n.
+- Built-in web search (turn it on in the chat's tools/settings).
 
 ## Install
 Upload each skill under Customize → Skills:
@@ -29,5 +28,3 @@ Upload each skill under Customize → Skills:
 | lessons.md | all | no |
 
 All data is fictional/anonymized.
-
-`old-versions/` holds the earlier connector-based files (Google Sheets, Gmail, n8n).
